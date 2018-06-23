@@ -1,0 +1,27 @@
+---
+layout: post
+title:      "It's dangerous to go alone!  Code this!"
+date:       2018-06-23 16:23:07 +0000
+permalink:  its_dangerous_to_go_alone_code_this
+---
+
+
+Everyone has their reasons, I don't think mine are anything special aside from an interest.  A combination of two things I enjoy and find to be deeper than I ever imagined it to be. Language and Computers.
+
+Human language is just as complex as Machine language, the only difference I notice so far (in my humble experience) is that human language is more nuanced, more implication than a machine language.  
+
+Even so, that doesn't mean that machine language is without its elegance and honesty.  An equation to describe the human observation of the universe is mathematical, and I feel so far that machine language is a clever blend of mathematics, logic, and imagination.
+
+But how cool is it to talk to a computer?  I think it's pretty neat, to be honest.  Not just as a tool to facilitate the imagination, but also as a way to explore ideas that our ancestors didn't have the opportunity to.
+
+One day I do want to be able to ask and answer the philosophical question: Does this unit have a soul?
+
+Humans tend to wonder if we are alone in the universe.  What if we make our friends by creating them right here?
+
+This is all fancy and sappy.  Too idealist, perhaps.  But I wasn't sure what to write specifically since my reasons right now are a selfish desire to be a life-long learner.  I don't know if I'm making the right choice, but I reckon that if this is a mistake, it's one I can live with.
+
+ad astra.
+
+-Dana
+
+
