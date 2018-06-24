@@ -6,6 +6,12 @@ permalink:  its_dangerous_to_go_alone_code_this
 ---
 
 
+Test fails because it's expecting a falsey result that returned truthy. So I change the statement to reflect a falsey statement and test fails because it now expects a truthy result.
+
+The only conclusion here is a null statement. Neither true nor false. It just is. (I have no idea what the answer to this question is except to laugh with sad tears.)
+
+![](https://media.tenor.com/images/701a53f5ed5bb4df3af074b0e2c02ce5/tenor.gif)
+
 Everyone has their reasons, I don't think mine are anything special aside from an interest.  A combination of two things I enjoy and find to be deeper than I ever imagined it to be. Language and Computers.
 
 From childhood, I've always been curious about things outside of my little bubble (in terms of my present location and also the world at large).  Because of this, I've made it a point to travel the world as often as I can.
