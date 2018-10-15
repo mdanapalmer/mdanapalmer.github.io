@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Operator ||= and you"
-date:       2018-10-15 03:20:15 +0000
+date:       2018-10-14 23:20:16 -0400
 permalink:  operator_and_you
 ---
 
 
-Scouring the internet for a definition of an operator can get tedious, especially if you're running into a lot of super technical esoteric mumbo jumbo that beginners (like myself) haven't been able to develop just yet.  Well, friends, I am going to put into words what ||= turns into in Ruby.
+Scouring the internet for a definition of an operator can get tedious, especially if you're running into a lot of super technical esoteric mumbo jumbo that beginners (like myself) haven't been able to develop just yet.  Well, friends, I am going to put into words what || = turns into in Ruby.
 
 ![What does it mean??](https://i.4pcdn.org/x/1500569380740.gif)
 
