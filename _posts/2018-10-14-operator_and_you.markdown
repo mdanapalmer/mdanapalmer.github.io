@@ -44,7 +44,7 @@ This is handy to prevent duplication of items.  In the above example, would we w
 
 No, of course not!  In a true school only one grade 9 exists.  The same should be in the school domain.   Having two would make our collections incomplete and messy to track.  
 
-I hope this helps anyone currently struggling with the definition of ||=.  I kind of want to call it Do OR don't equals.
+I hope this helps anyone currently struggling with the definition of || =.  I kind of want to call it Do OR don't equals.
 
 -Dana
 
