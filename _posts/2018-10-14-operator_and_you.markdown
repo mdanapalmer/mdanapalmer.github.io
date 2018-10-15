@@ -12,7 +12,7 @@ Scouring the internet for a definition of an operator can get tedious, especiall
 
 > In Ruby, you can conditionally set a variable like this:
 > 
->   x ||= 1
+>   x || = 1
 > 
 > If x is not initialized—or if it is set to nil or false—it will be assigned 1. If it’s already set to a Booleanly true value (i.e., anything other than nil or false), it will remain unchanged.
 > 
